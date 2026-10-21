@@ -67,3 +67,10 @@ https://github.com/jiachenglai/GTFKAN
 GitHub automatically redirects the previous repository URL to the current location. Both addresses refer to the same repository, not separate implementations or forks.
 
 For citations, reproducibility, and future contributions, please use the current repository URL.
+
+
+## License
+
+The original GTFKAN source code is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Third-party datasets and components, including MDAD and aBiofilm, remain subject to their respective original licenses and terms of use. The MIT License does not grant additional rights to these third-party materials.
